@@ -8,6 +8,6 @@ This DAG is composed of three operators:
 
 2. PythonOperator creates a DataFrame and stores it in a local MySQL database
 
-3.BashOperator just echoes a completion notification
+3. BashOperator just echoes a completion notification
   
 Scratching the surface of this workflow, so much to learn.
